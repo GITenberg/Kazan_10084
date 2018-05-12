@@ -1,5 +1,5 @@
 _repo: Kazan_10084
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Hoffman, Frank B.
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1962
     gutenberg_agent_id: '32695'
     url: http://www.gutenberg.org/2009/agents/32695
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -24,6 +27,8 @@ description: Ce roman a connu de nombreuses rééditions. L'aventure de Kazan et
   Louve Grise dans le Wild si cher à Curwood, a conquis depuis longtemps le coeur
   des jeunes. Les illustrations au crayon vont de pair avec le texte. A partir de
   11 ans.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10084#Kazan
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
